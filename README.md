@@ -12,8 +12,10 @@ If you are a sublime text 3 editor user you must install these plugin.
 9. Hover Image preview
 10. A file icon
 11. html-css-fs prettify
-12. Any theme you want like material , boxy theme
+12. Any theme you want like material theme , boxy theme
+13. BracketHighlighter
 
 For more information check this link:
 1. https://www.shopify.com/partners/blog/the-best-sublime-text-plugins-for-front-end-developers
 2. https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9
+3. https://colorlib.com/wp/sublime-text-plugins/
